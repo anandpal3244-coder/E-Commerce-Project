@@ -40,10 +40,3 @@ It’s designed to simulate how large-scale e-commerce platforms use data to mak
 💡 Clean, reusable notebook for data exploration  
 
 ---
-
-## ⚙️ How to Run
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/E-Commerce-Project.git
-   cd E-Commerce-Project
